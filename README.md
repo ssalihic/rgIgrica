@@ -7,6 +7,7 @@
 - Haris Šoljić
 - Dženana Šabović
 - Ajla Panjeta
+- Amir Muminovic
 # Instalacija
 ### 1. npm install
 ### 2. promijenite za sve CSV fajlove da 'end of line sequence' bude LF, a ne CRLF 
